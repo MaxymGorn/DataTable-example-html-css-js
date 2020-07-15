@@ -1,2 +1,2 @@
-# DataTable example html/css/js
+# DataTable example html/css/js with reading json file
  ...
