@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "FirstName": "Макс",
+            "LastName": "Горницький",
+            "EmailID": "maximufuefuh@gmail.com",
+            "City": "Київ",
+            "Country": "Україна",
+            "ContactID": "0983477443"
+        },
+        {
+            "FirstName": "Вася",
+            "LastName": "Пупкин",
+            "EmailID": "ergereg@gmail.com",
+            "City": "Полтава",
+            "Country": "Україна",
+            "ContactID": "0924574645"
+        },
+        {
+            "FirstName": "Оля",
+            "LastName": "Петровна",
+            "EmailID": "thrtrh@gmail.com",
+            "City": "New York",
+            "Country": "USA",
+            "ContactID": "7309245784645"
+        },
+        {
+            "FirstName": "Еля",
+            "LastName": "Шекель",
+            "EmailID": "eergtgth@gmail.com",
+            "City": "Мінськ",
+            "Country": "Білорусь",
+            "ContactID": "6544354645646"
+        },
+        {
+            "FirstName": "Влад",
+            "LastName": "Селезнев",
+            "EmailID": "vladttegre@gmail.com",
+            "City": "Рівне",
+            "Country": "Україна",
+            "ContactID": "0963438467486"
+        },
+        {
+            "FirstName": "Назар",
+            "LastName": "Петровия",
+            "EmailID": "nazar34ff34g@gmail.com",
+            "City": "Харків",
+            "Country": "Україна",
+            "ContactID": "792234484645"
+        },
+        {
+            "FirstName": "Nick",
+            "LastName": "Nilson",
+            "EmailID": "f3g4fg4834g@gmail.com",
+            "City": "USA",
+            "Country": "Miami",
+            "ContactID": "57762445346"
+        }
+    ]
+}
